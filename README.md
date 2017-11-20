@@ -10,7 +10,7 @@
 	$ npm i -g cl1p-cli
 ```
 
-## Usage
+## Usage
 ```sh
 	Cli tool for http://cl1p.net
 
@@ -23,5 +23,5 @@
 	--lifetime <time>                     # Destroy the clip after given ms
 ```
 
-## Credits
+## Credits
 Made with :heart: by [@Rawnly](https://federicovitale.me)

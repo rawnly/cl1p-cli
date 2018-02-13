@@ -15,7 +15,7 @@
 	Cli tool for http://cl1p.net
 
 	Usage
-	$ cl1p [text] --name <name>
+	$ cl1p <content> --name <name>
 
 	Options
 	-n --name <name>                      # Cl1p name (cl1p.net/:name)
